@@ -1,6 +1,6 @@
 {
   "name": "pyt-menu",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "authors": [
     "Anonymous <wstcpyt@gmail.com>"
   ],
@@ -15,7 +15,7 @@
   "license": "http://polymer.github.io/LICENSE.txt",
   "homepage": "https://github.com/wstcpyt/pyt-menu/",
   "ignore": [
-    "/.*",
+    "/.*"
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
