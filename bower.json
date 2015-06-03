@@ -16,8 +16,6 @@
   "homepage": "https://github.com/wstcpyt/pyt-menu/",
   "ignore": [
     "/.*",
-    "/test/",
-    "/demo/"
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
